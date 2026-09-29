@@ -1,4 +1,4 @@
-# ratoncito
+# ![ratoncito](docs/banner.svg)
 
 Remaps mouse buttons on macOS — e.g. make the back button act as left click when a
 mouse's left switch is failing, without running the vendor's software. Remapped
